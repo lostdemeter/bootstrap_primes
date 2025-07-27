@@ -1,4 +1,4 @@
-# Prime Spigot Algorithm
+# Prime Spigot Bootstrap Algorithm
 A novel BBP-like spigot algorithm for approximating the nth prime number using the Riemann zeta function's non-trivial zeros and the prime counting function π(x). This implementation inverts an explicit formula for π(x) with oscillatory terms from zeta zeros, achieving reasonable accuracy for large n.
 
 ## Overview
